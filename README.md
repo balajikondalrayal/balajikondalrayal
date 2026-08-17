@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @balajikondalrayal
 - 👀 I’m interested in making iOS applications, web applications using React JS, Node JS, MongoDB
-- 🌱 I’m currently learning Java, GoLang
+- 🌱 I’m currently learning Java, Python
 - 💞️ I’m looking to collaborate on OpenSource projects
 - 📫 How to reach me
       -  https://www.linkedin.com/in/balaji-kondalrayan/
